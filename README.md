@@ -1,5 +1,11 @@
-### Hi there 👋
 
+### Hi there I'm Ayoub Farid👋
+## Welcome to my Github profile
+- 👩‍💻• Ui/Ux Designer & Front-end Dev
+- 💡 • Design and make Wep/Mobile apps
+- 🎯• Helping Start-up,Brands with an interactive and beautifull interfaces
+- 📨• ayoubfarid80@gmail.com
+- 📍 •Morocco 🇲🇦
 <!--
 **ayoubfarid/ayoubfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
