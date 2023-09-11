@@ -1,12 +1,12 @@
 
 ### Hi there I'm Ayoub Farid👋
 ## Welcome to my Github profile
-- 👩‍💻• Ui/Ux Designer & Front-end Dev
+- 👩‍💻• Ui/Ux Designer & Front-end Dev @Soorcin
 - 💡 • Design and make Wep/Mobile apps
 - 🎯• Helping Start-up,Brands with an interactive and beautifull interfaces
 - 📨• ayoubfarid80@gmail.com
 - 📍 •Morocco 🇲🇦
--  🔭 I’m currently working on Syrassur (un systeme de rappel des assurances )
+#-  🔭 I’m currently working on Syrassur (un systeme de rappel des assurances )
 <!--
 **ayoubfarid/ayoubfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
